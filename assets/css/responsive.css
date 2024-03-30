@@ -1,0 +1,58 @@
+@media screen and (max-width: 767px){
+    .carousel-caption h1{
+        font-size: 1.5rem
+    }
+    .btn-rs{
+      font-size: 0.7rem;
+    }
+    .txt-space{
+        padding-top: 17px;
+        width: 100%;
+        margin:0px auto
+    }
+}
+@media screen and (max-width: 575px){
+    .carousel-caption h1{
+        font-size: 1.2rem;
+    }
+    .btn-rs{
+        font-size: 0.5rem;
+      }
+    .image-s{
+        width: 63%;
+        margin: 0px auto;
+    }
+    .block-size{
+        width: 85%;
+        margin: 0px auto;
+        border-radius: 1rem !important
+    }
+    .logo{
+        width: 100px;
+        height: 30px;
+    }
+}
+@media screen and (max-width: 467px){
+    .carousel-caption h1{
+        font-size: 1rem
+    }
+    .btn-rs{
+      font-size: 0.6rem;
+      padding: 2px 4px;
+    }
+}
+@media screen and (max-width: 390px){
+    .btn-rs{
+      margin-bottom: 17px;
+      font-size: 0.4rem;
+      padding: 1px 3px;
+    }
+}
+@media screen and (max-width: 350px){
+    .carousel-caption h1{
+        font-size: 0.7rem
+    }
+      .txt-s p{
+        font-size: 1rem;
+      }
+}

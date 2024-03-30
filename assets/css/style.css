@@ -1,0 +1,17 @@
+*{
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+.ml{
+  margin-left: 11%;
+  
+}
+.br-radius{
+  border-radius: 10px 10px 50px 10px;
+}
+.b-radius{
+  border-radius: 10px 10px 10px 50px;
+}
+.carousel-caption{
+  margin-top: -3rem;
+}
